@@ -30,3 +30,4 @@
 21. [BrainHack Book](http://brainhack.org/brainhack_jupyter_book/)
 22. [Sumerian Networks](https://niekveldhuis.github.io/sumnet/welcome.html)
 23. [Stats DS Book](https://theoryandpractice.org/stats-ds-book/intro.html)
+24. [Scikit-learn Course](https://inria.github.io/scikit-learn-mooc/)
