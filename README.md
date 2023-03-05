@@ -32,3 +32,4 @@
 23. [Stats DS Book](https://theoryandpractice.org/stats-ds-book/intro.html)
 24. [Scikit-learn Course](https://inria.github.io/scikit-learn-mooc/)
 25. [Course on EDA](https://bayesball.github.io/EDA/)
+26. [Python Packages](https://py-pkgs.org/) Great resource to learn about Python packages, maintenance and versioning.
